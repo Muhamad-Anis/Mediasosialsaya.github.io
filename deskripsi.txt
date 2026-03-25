@@ -20,3 +20,4 @@ commit
 👉 Git tetap bisa terlihat lurus (tidak bercabang) kalau:
 
 Branch kamu belum “berpisah arah” dari main
+ nah mungkin itu masalah kamu
